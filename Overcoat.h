@@ -15,7 +15,7 @@ public:
 	void set_type(char* type_P) { delete[] type; type = new char[strlen(type_P) + 1] {*type_P}; }
 	void set_cost(int cost_P) { cost = cost_P; }
 
-	
+
 	const char* get_type() { return type; }
 	int get_cost() { return cost; }
 };
