@@ -1,0 +1,16 @@
+﻿  Overcoat.cpp
+C:\test\Project3\Project3\Overcoat.h(25,128): warning C4305: return: усечение из "int" в "bool"
+  (компиляция исходного файла "Overcoat.cpp")
+  
+C:\test\Project3\Project3\Overcoat.h(26,128): warning C4305: return: усечение из "int" в "bool"
+  (компиляция исходного файла "Overcoat.cpp")
+  
+  Source.cpp
+C:\test\Project3\Project3\Overcoat.h(25,128): warning C4305: return: усечение из "int" в "bool"
+  (компиляция исходного файла "Source.cpp")
+  
+C:\test\Project3\Project3\Overcoat.h(26,128): warning C4305: return: усечение из "int" в "bool"
+  (компиляция исходного файла "Source.cpp")
+  
+  Создание кода...
+  Project3.vcxproj -> C:\test\Project3\x64\Debug\Project3.exe
