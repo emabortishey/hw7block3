@@ -30,5 +30,10 @@ public:
 
 	const char* get_type() { return type; }
 	int get_cost() { return cost; }
+
+	~Overcoat()
+	{
+		delete[] type;
+	}
 };
 
